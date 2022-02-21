@@ -1,14 +1,12 @@
 import React, {Component} from 'react';
-import Header from './header';
-import MainContent from './MainContent';
-import Footer from './Footer';
+import Nav from './Components/Nav.js'
+import Main from './Components/Main.js'
 
 function App(){
     return(
-        <div>
-            <Header />
-            <MainContent />
-            <Footer />
+        <div className='app'>
+            <Nav />
+            <Main />
         </div>
     )
 }
