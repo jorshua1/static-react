@@ -52,7 +52,7 @@ body {
 .main{
   background-color: #282d35;
   color: #fff;
-  height: 35%;
+  height: auto;
   padding: 3rem;
   background-image: url(./Images/dos.svg);
   background-repeat: no-repeat;
