@@ -1,6 +1,5 @@
 import React from "react";
 import Andrea from "../Assets/person.jpeg";
-import Logo from "../Assets/logo.svg";
 
 function Info() {
   return (
